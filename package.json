@@ -1,0 +1,12 @@
+{
+  "name": "leccion-1-primer-proyecto-node",
+  "version": "1.0.0",
+  "description": "Curso JavaScript básico OB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Melodi Balossino\"",
+  "license": "ISC"
+}
